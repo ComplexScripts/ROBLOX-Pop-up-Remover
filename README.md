@@ -1,4 +1,4 @@
-# ROBLOX Pop-up Remover
+# ROBLOX Pop-up Remover `[OUTDATED, WILL NOT WORK ANYMORE]`
 
 The `roblox.bat` file is completely safe. <br>
 All it does is change the "LaunchApp" value for Roblox's player from "InApp" (which is causing the pop-up) to "InBrowser". <br>
